@@ -9,4 +9,4 @@ report_area -nosplit -hierarchy
 report_power -nosplit -hier
 report_reference -nosplit -hierarchy
 report_resources -nosplit -hierarchy
-exit
+exit 0

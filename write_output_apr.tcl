@@ -8,4 +8,4 @@ set_write_stream_options -child_depth 20 -flatten_via
 write_stream -format oasis -lib_name /tmp/pdtry/sifive_u74_risc_v_core_eval_kit/VS_lib_icc -cells {BLOCKNAME} BLOCKNAME.oas
 save_mw_cel
 close_mw_cel
-exit 0
+quit
